@@ -1,0 +1,8 @@
+To run MPeat model
+
+1. Put all file in the same folder.
+2. Run the input data rain.m for the net rainfall rate and temperature.m for the annual air temperature. 
+   Those data can be obtained from field measurements or simulation model.  
+3. Run the main file MPeat.m. 
+   Running time depend on the computer performance and maximum simulation time of the model.  
+
