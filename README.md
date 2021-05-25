@@ -2,4 +2,4 @@
 MPeat is a simulator for peatland development that includes mechanical, ecological, and hydrological processes via poroelasticity theory.
 
 # License
-TBD
+GPL 3.0
