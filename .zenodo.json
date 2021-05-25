@@ -1,0 +1,27 @@
+{
+    "description": "MPeat is the long-term peatland development model that includes mechanical, ecological, and hydrological processes via poroelasticity theory, which coupling between fluid flow and solid deformation.", 
+    "license": "GPL", 
+    "title": "MPeat", 
+    "version": "1.0", 
+    "upload_type": "software", 
+    "publication_date": "2021-05-25", 
+    "creators": [
+        {
+            "affiliation": "University of Nottingham", 
+            "name": "Adilan Widyawan Mahdiyasa"
+        }, 
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/multiform-UoN/MPeat/tree/1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.4786346", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
