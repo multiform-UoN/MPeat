@@ -11,17 +11,5 @@
             "name": "Adilan Widyawan Mahdiyasa"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/multiform-UoN/MPeat/tree/1.0", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.4786346", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
