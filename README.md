@@ -9,4 +9,5 @@ Adilan Mahdiyasa
 University of Nottingham
 
 # How to cite
-Under review
+Mahdiyasa, A.W., Large, D.J., Muljadi, B.P., Icardi, M. and Triantafyllou, S., 2022. MPeat—A fully coupled mechanical‐ecohydrological model of peatland development. Ecohydrology, 15(1), p.e2361.
+[DOI: 10.1002/eco.2361](https://doi.org/10.1002/eco.2361)
